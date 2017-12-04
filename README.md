@@ -7,9 +7,16 @@
 
 ### Implementation
 
-* **Guess Class:**  Model of one guess: number sequence, fitness, bulls and cows, methods to munipulate the guess object - mutate the sequence, calculate the fitness
+* **Guess Class:**  
+  
+  * Viriable: number sequence, fitness, bulls and cows, 
+  * Methods to munipulate the guess object - mutate the sequence, calculate the fitness
+  
 * **Train Class:** main class to run the GA process.
-a.  initialize generation 0. b. Calculate their fitness can sort by it descendingly. c. Evolve to a new generation by culling one half guesses from last generation and mutate the other half which has higher fitness to form a new generation.d. Repeat the evolving process until one Guess is corrent in current generation, GA stops.   
+  * Initialize generation 0. 
+  * Calculate their fitness can sort by it descendingly. 
+  * Evolve to a new generation by culling one half guesses from last generation and mutate the other half which has higher fitness to form a new generation.
+  * Repeat the evolving process until one Guess is corrent in current generation, GA stops.   
 
 ### Experiment
 
