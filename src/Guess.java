@@ -1,5 +1,12 @@
 import java.util.Random;
-
+/**
+ * @author fei
+ * Guess : one guess for SECRET word
+ * sequence : the word 
+ * bulls : how many same character same position exist in this guess
+ * cows : how many same character but different position exist in this guess
+ * fitness : the fitness value calculated from bulls and cows
+ */
 public class Guess {
 	int fitness;
 	int bulls;
@@ -14,6 +21,9 @@ public class Guess {
 		this.createRandom();
 	}
 	
+	/*
+	 * evolve method: this guess evolves to a new guess by mutation of sequence
+	 */
 	public Guess evolve(){
 		Guess nextGeneration = new Guess();
 		this.mutate();
@@ -21,6 +31,9 @@ public class Guess {
 		return nextGeneration;
 	}
 	
+	/*
+	 * createRandom method: create a random guess as a member in initial generation
+	 */
 	public void createRandom(){
 		StringBuilder sb  = new StringBuilder();
 		for(int i = 0; i < 4; i++){
@@ -29,6 +42,9 @@ public class Guess {
 		this.sequence = sb.toString();
 	}
 	
+	/*
+	 * mutate method: mutate a random character in the sequence into a random character
+	 */
 	void mutate(){
 		int idx  = rn.nextInt(Integer.MAX_VALUE)%4;
 		int new_number = rn.nextInt(Integer.MAX_VALUE)%10;
@@ -37,6 +53,9 @@ public class Guess {
 		sequence = new String(tmp);
 	}
 	
+	/* calBullsCows method
+	 * calculate the bulls and cows for this guess
+	 */
 	private void calBullsCows(String secret){
 		int[] numbers = new int[10];
 		this.bulls = 0;
@@ -55,6 +74,10 @@ public class Guess {
 		}
 	}
 	
+	/* calFitness() method
+	 * calculate the fitness for this guess
+	 * argument: secret: the SECRET word need to be guessed
+	 */ 
 	public void calFitness(String secret){
 		this.calBullsCows(secret);
 		this.fitness = this.bulls*Train.BULL_WEIGHT + this.cows*Train.COW_WEIGHT;

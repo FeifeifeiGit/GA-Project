@@ -1,0 +1,61 @@
+2017-12-06 19:28:05 INFO  Train:20 -  Constructor Called!
+2017-12-06 19:28:05 INFO  Train:21 -  SECRET=8351, BULL_WEIGHT=2, COW_WEIGHT=1, maximum evolving times = 0
+2017-12-06 19:28:05 INFO  Train:28 - -------- Initialize a new Experitment! -----
+2017-12-06 19:28:05 INFO  Train:37 - 16 Guess are created as the Generation 0
+2017-12-06 19:28:05 INFO  Train:72 -  A new generation is created: Generation: 1
+2017-12-06 19:28:05 INFO  Train:72 -  A new generation is created: Generation: 2
+2017-12-06 19:28:05 INFO  Train:72 -  A new generation is created: Generation: 3
+2017-12-06 19:28:05 INFO  Train:72 -  A new generation is created: Generation: 4
+2017-12-06 19:28:05 INFO  Train:72 -  A new generation is created: Generation: 5
+2017-12-06 19:28:05 INFO  Train:72 -  A new generation is created: Generation: 6
+2017-12-06 19:28:05 INFO  Train:72 -  A new generation is created: Generation: 7
+2017-12-06 19:28:05 INFO  Train:72 -  A new generation is created: Generation: 8
+2017-12-06 19:28:05 INFO  Train:72 -  A new generation is created: Generation: 9
+2017-12-06 19:28:05 INFO  Train:72 -  A new generation is created: Generation: 10
+2017-12-06 19:28:05 INFO  Train:72 -  A new generation is created: Generation: 11
+2017-12-06 19:28:05 INFO  Train:72 -  A new generation is created: Generation: 12
+2017-12-06 19:28:05 INFO  Train:72 -  A new generation is created: Generation: 13
+2017-12-06 19:28:05 INFO  Train:58 -  A perfect candidate Found: 8351 in generation 13
+2017-12-06 19:29:10 INFO  Train:20 -  Constructor Called!
+2017-12-06 19:29:10 INFO  Train:21 -  SECRET=8351, BULL_WEIGHT=2, COW_WEIGHT=1, maximum evolving times = 0
+2017-12-06 19:29:10 INFO  Train:28 - -------- Initialize a new Experitment! -----
+2017-12-06 19:29:10 INFO  Train:37 - 16 Guess are created as the Generation 0
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 1
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 2
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 3
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 4
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 5
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 6
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 7
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 8
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 9
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 10
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 11
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 12
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 13
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 14
+2017-12-06 19:29:10 INFO  Train:72 -  A new generation is created: Generation: 15
+2017-12-06 19:29:10 INFO  Train:58 -  A perfect candidate Found: 8351 in generation 15
+2017-12-06 19:29:23 INFO  Train:20 -  Constructor Called!
+2017-12-06 19:29:23 INFO  Train:21 -  SECRET=8351, BULL_WEIGHT=2, COW_WEIGHT=1, maximum evolving times = 0
+2017-12-06 19:29:23 INFO  Train:28 - -------- Initialize a new Experitment! -----
+2017-12-06 19:29:23 INFO  Train:37 - 16 Guess are created as the Generation 0
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 1
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 2
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 3
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 4
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 5
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 6
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 7
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 8
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 9
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 10
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 11
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 12
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 13
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 14
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 15
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 16
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 17
+2017-12-06 19:29:23 INFO  Train:72 -  A new generation is created: Generation: 18
+2017-12-06 19:29:23 INFO  Train:58 -  A perfect candidate Found: 8351 in generation 18
