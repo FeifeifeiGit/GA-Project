@@ -15,7 +15,7 @@
 * **Train Class:** main class to run the GA process.
   * Initialize generation 0. 
   * Calculate their fitness can sort by it descendingly. 
-  * Evolve to a new generation by culling one half guesses from last generation and mutate the other half which has higher fitness to form a new generation.
+  * Evolve to a new generation by culling half of guesses from last generation and mutate the other half which has higher fitness to form a new generation.
   * Repeat the evolving process until one Guess is corrent in current generation, GA stops.   
 
 ### Experiment
