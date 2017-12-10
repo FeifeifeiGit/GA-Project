@@ -20,7 +20,7 @@
 
 ### Unit Test:
 * Test fitness calculation method using Junit test. 
-   * Other methods: mutate/initialize all involve random number, did not use unit test.
+* Other methods: mutate/initialize all involve random number, did not use unit test.
 
 ### Concultion
  * GA algrithm is an effective solution to solve word guessing games. With this project, we can successfully guess the secret word within 100 generations.
