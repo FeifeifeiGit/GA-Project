@@ -18,7 +18,12 @@
   * Evolve to a new generation by culling half of guesses from last generation and mutate the other half which has higher fitness to form a new generation.
   * Repeat the evolving process until one Guess is corrent in current generation, GA stops.   
 
-### Experiment
+### Unit Test:
+   * Test fitness calculation method using Junit test. 
+   *  Other methods: mutate/initialize all involve random number, did not use unit test.
+
+### Concultion
+  * GA algrithm is an effective solution to solve word guessing games. With this project, we can successfully guess the secret word within 100 generations.
 
 
    
