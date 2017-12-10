@@ -1,4 +1,6 @@
 import java.util.Random;
+
+import org.apache.log4j.Logger;
 /**
  * @author fei
  * Guess : one guess for SECRET word
@@ -14,6 +16,8 @@ public class Guess {
 	String sequence;
 	Random rn = new Random();
 	
+	private static final Logger log = Logger.getLogger(Guess.class);
+	
 	public Guess(){
 		this.fitness = 0;
 		this.bulls = 0;
@@ -21,13 +25,23 @@ public class Guess {
 		this.createRandom();
 	}
 	
+	//constructor with sequence string, for test use
+	public Guess(String test){
+		this.fitness = 0;
+		this.bulls = 0;
+		this.cows = 0;
+		this.sequence = test;
+	}
+	
 	/*
 	 * evolve method: this guess evolves to a new guess by mutation of sequence
 	 */
 	public Guess evolve(){
 		Guess nextGeneration = new Guess();
+		//String parent = this.sequence;
 		this.mutate();
 		nextGeneration.sequence = this.sequence;
+		//log.info("A new inividual: " + this.sequence + " Evolve from parent: " + parent );
 		return nextGeneration;
 	}
 	

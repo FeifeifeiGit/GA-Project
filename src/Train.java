@@ -21,11 +21,12 @@ public class Train {
 	 * count: the number of guess of every generation
 	 */
 	public Train(int upperBound, int count){
-		log.info(" Constructor Called!");
-		log.info(" SECRET=" + SECRET + ", BULL_WEIGHT=" + BULL_WEIGHT + ", COW_WEIGHT="
-				+ COW_WEIGHT + ", maximum evolving times = " + times );
+		
 		this.times = upperBound;
 		initialize(count);
+		log.info(" Train Constructor Called!");
+		log.info(" SECRET=" + SECRET + ", BULL_WEIGHT=" + BULL_WEIGHT + ", COW_WEIGHT="
+				+ COW_WEIGHT + ", maximum evolving times=" + times );
 	}
 	
 	/*
@@ -82,7 +83,7 @@ public class Train {
 		});
 		if(generation[0].bulls == 4) {
 			win = true;
-		  log.info(" A perfect candidate Found: " + generation[0].sequence + " in generation " + num_generation);
+		  log.info(" Evolving ended. A perfect candidate Found: " + generation[0].sequence + " in generation " + num_generation);
 		}
 	}
 	

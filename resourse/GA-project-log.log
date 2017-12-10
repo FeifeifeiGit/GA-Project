@@ -305,3 +305,357 @@
 2017-12-06 20:05:21 INFO  Train:60 -  A new generation is created: Generation: 19
 2017-12-06 20:05:21 INFO  Train:60 -  A new generation is created: Generation: 20
 2017-12-06 20:05:21 INFO  Train:85 -  A perfect candidate Found: 3456 in generation 20
+2017-12-10 17:40:57 INFO  Train:24 -  Constructor Called!
+2017-12-10 17:40:57 INFO  Train:25 -  SECRET=3456, BULL_WEIGHT=2, COW_WEIGHT=1, maximum evolving times = 0
+2017-12-10 17:40:57 INFO  Train:35 - -------- Initialize a new Experiment! -----
+2017-12-10 17:40:57 INFO  Train:42 - 16 Guess are created as the Generation 0
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 1
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 2
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 3
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 4
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 5
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 6
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 7
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 8
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 9
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 10
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 11
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 12
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 13
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 14
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 15
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 16
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 17
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 18
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 19
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 20
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 21
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 22
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 23
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 24
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 25
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 26
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 27
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 28
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 29
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 30
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 31
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 32
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 33
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 34
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 35
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 36
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 37
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 38
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 39
+2017-12-10 17:40:57 INFO  Train:60 -  A new generation is created: Generation: 40
+2017-12-10 17:40:57 INFO  Train:85 -  Evolving ended. A perfect candidate Found: 3456 in generation 40
+2017-12-10 17:41:42 INFO  Train:36 - -------- Initialize a new Experiment! -----
+2017-12-10 17:41:42 INFO  Train:43 - 16 Guess are created as the Generation 0
+2017-12-10 17:41:42 INFO  Train:27 -  Train Constructor Called!
+2017-12-10 17:41:42 INFO  Train:28 -  SECRET=3456, BULL_WEIGHT=2, COW_WEIGHT=1, maximum evolving times = 100
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 1
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 2
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 3
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 4
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 5
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 6
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 7
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 8
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 9
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 10
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 11
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 12
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 13
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 14
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 15
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 16
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 17
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 18
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 19
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 20
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 21
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 22
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 23
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 24
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 25
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 26
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 27
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 28
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 29
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 30
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 31
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 32
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 33
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 34
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 35
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 36
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 37
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 38
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 39
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 40
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 41
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 42
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 43
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 44
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 45
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 46
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 47
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 48
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 49
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 50
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 51
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 52
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 53
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 54
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 55
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 56
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 57
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 58
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 59
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 60
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 61
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 62
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 63
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 64
+2017-12-10 17:41:42 INFO  Train:61 -  A new generation is created: Generation: 65
+2017-12-10 17:41:42 INFO  Train:86 -  Evolving ended. A perfect candidate Found: 3456 in generation 65
+2017-12-10 17:46:45 INFO  Train:36 - -------- Initialize a new Experiment! -----
+2017-12-10 17:46:45 INFO  Train:43 - 16 Guess are created as the Generation 0
+2017-12-10 17:46:45 INFO  Train:27 -  Train Constructor Called!
+2017-12-10 17:46:45 INFO  Train:28 -  SECRET=3456, BULL_WEIGHT=2, COW_WEIGHT=1, maximum evolving times=100
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3798 Evolve from parent: 3795
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5498 Evolve from parent: 5498
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5478 Evolve from parent: 5428
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 9086 Evolve from parent: 9036
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 1891 Evolve from parent: 3891
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3013 Evolve from parent: 3013
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7546 Evolve from parent: 7542
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 1896 Evolve from parent: 1826
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 1
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7576 Evolve from parent: 7546
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7536 Evolve from parent: 7546
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5198 Evolve from parent: 5498
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5472 Evolve from parent: 5478
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5499 Evolve from parent: 5498
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5470 Evolve from parent: 5478
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3797 Evolve from parent: 3798
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7086 Evolve from parent: 9086
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 2
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 0536 Evolve from parent: 7536
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7546 Evolve from parent: 7536
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7566 Evolve from parent: 7576
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5432 Evolve from parent: 5472
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5499 Evolve from parent: 5499
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5270 Evolve from parent: 5470
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 2576 Evolve from parent: 7576
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5472 Evolve from parent: 5472
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 3
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 0534 Evolve from parent: 0536
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8546 Evolve from parent: 7546
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5462 Evolve from parent: 5432
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 0534 Evolve from parent: 0536
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7586 Evolve from parent: 7546
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7432 Evolve from parent: 5432
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7563 Evolve from parent: 7566
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5799 Evolve from parent: 5499
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 4
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8346 Evolve from parent: 8546
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8462 Evolve from parent: 5462
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8536 Evolve from parent: 8546
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5452 Evolve from parent: 5462
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 0534 Evolve from parent: 0534
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8534 Evolve from parent: 0534
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7583 Evolve from parent: 7586
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7433 Evolve from parent: 7432
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 5
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8342 Evolve from parent: 8346
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7536 Evolve from parent: 8536
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3452 Evolve from parent: 5452
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8046 Evolve from parent: 8346
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8736 Evolve from parent: 8536
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5402 Evolve from parent: 5452
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8468 Evolve from parent: 8462
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 9534 Evolve from parent: 0534
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 6
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3462 Evolve from parent: 3452
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4452 Evolve from parent: 3452
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3536 Evolve from parent: 7536
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 6536 Evolve from parent: 7536
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8047 Evolve from parent: 8046
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8786 Evolve from parent: 8736
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5404 Evolve from parent: 5402
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8438 Evolve from parent: 8468
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 7
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3482 Evolve from parent: 3462
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3036 Evolve from parent: 3536
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5462 Evolve from parent: 3462
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3538 Evolve from parent: 3536
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4402 Evolve from parent: 4452
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 6532 Evolve from parent: 6536
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4492 Evolve from parent: 4452
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 6596 Evolve from parent: 6536
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 8
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3402 Evolve from parent: 3482
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4036 Evolve from parent: 3036
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5762 Evolve from parent: 5462
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3482 Evolve from parent: 3482
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3030 Evolve from parent: 3036
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5469 Evolve from parent: 5462
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3528 Evolve from parent: 3538
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 1532 Evolve from parent: 6532
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 9
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3442 Evolve from parent: 3402
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4037 Evolve from parent: 4036
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3442 Evolve from parent: 3482
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5469 Evolve from parent: 5469
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3412 Evolve from parent: 3402
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4036 Evolve from parent: 4036
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8482 Evolve from parent: 3482
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5869 Evolve from parent: 5469
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 10
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 6442 Evolve from parent: 3442
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 9442 Evolve from parent: 3442
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5463 Evolve from parent: 5469
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3112 Evolve from parent: 3412
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4026 Evolve from parent: 4036
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3142 Evolve from parent: 3442
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4442 Evolve from parent: 3442
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5461 Evolve from parent: 5469
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 11
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5469 Evolve from parent: 5463
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5453 Evolve from parent: 5463
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5411 Evolve from parent: 5461
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5861 Evolve from parent: 5461
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 6443 Evolve from parent: 6442
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4726 Evolve from parent: 4026
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3342 Evolve from parent: 3142
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 6448 Evolve from parent: 6442
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 12
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5463 Evolve from parent: 5453
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5653 Evolve from parent: 5453
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5369 Evolve from parent: 5469
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 6442 Evolve from parent: 6443
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5467 Evolve from parent: 5469
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4443 Evolve from parent: 6443
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5411 Evolve from parent: 5411
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4729 Evolve from parent: 4726
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 13
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5963 Evolve from parent: 5463
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4463 Evolve from parent: 5463
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 1653 Evolve from parent: 5653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5477 Evolve from parent: 5467
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5853 Evolve from parent: 5653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5667 Evolve from parent: 5467
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5399 Evolve from parent: 5369
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 9442 Evolve from parent: 6442
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 14
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4468 Evolve from parent: 4463
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 0653 Evolve from parent: 1653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4423 Evolve from parent: 4463
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 1654 Evolve from parent: 1653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5993 Evolve from parent: 5963
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5177 Evolve from parent: 5477
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5893 Evolve from parent: 5853
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5663 Evolve from parent: 5963
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 15
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8653 Evolve from parent: 0653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 1654 Evolve from parent: 1654
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4653 Evolve from parent: 0653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 1604 Evolve from parent: 1654
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4463 Evolve from parent: 4468
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4433 Evolve from parent: 4423
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5653 Evolve from parent: 5663
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4768 Evolve from parent: 4468
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 16
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5653 Evolve from parent: 4653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4657 Evolve from parent: 4653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8693 Evolve from parent: 8653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7654 Evolve from parent: 1654
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4163 Evolve from parent: 4463
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5683 Evolve from parent: 5653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8654 Evolve from parent: 8653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 1154 Evolve from parent: 1654
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 17
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5633 Evolve from parent: 5653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4657 Evolve from parent: 4657
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7354 Evolve from parent: 7654
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8674 Evolve from parent: 8654
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5653 Evolve from parent: 5653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4651 Evolve from parent: 4657
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7854 Evolve from parent: 7654
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8654 Evolve from parent: 8654
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 18
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 9657 Evolve from parent: 4657
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7304 Evolve from parent: 7354
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5353 Evolve from parent: 5653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4656 Evolve from parent: 4651
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8654 Evolve from parent: 8654
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4659 Evolve from parent: 4657
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7351 Evolve from parent: 7354
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5653 Evolve from parent: 5653
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 19
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7656 Evolve from parent: 4656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4656 Evolve from parent: 4656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 9654 Evolve from parent: 8654
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5659 Evolve from parent: 4659
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5253 Evolve from parent: 5653
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8634 Evolve from parent: 8654
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4658 Evolve from parent: 4659
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5655 Evolve from parent: 5653
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 20
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4666 Evolve from parent: 4656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4656 Evolve from parent: 4656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7656 Evolve from parent: 7656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8654 Evolve from parent: 9654
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4458 Evolve from parent: 4658
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7636 Evolve from parent: 7656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 9604 Evolve from parent: 9654
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4650 Evolve from parent: 4658
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 21
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4676 Evolve from parent: 4656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4656 Evolve from parent: 4656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5656 Evolve from parent: 7656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8650 Evolve from parent: 8654
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4858 Evolve from parent: 4458
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4680 Evolve from parent: 4650
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7666 Evolve from parent: 7656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8624 Evolve from parent: 8654
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 22
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4626 Evolve from parent: 4656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4656 Evolve from parent: 4656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5696 Evolve from parent: 5656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4656 Evolve from parent: 5656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4686 Evolve from parent: 4676
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8650 Evolve from parent: 8650
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4878 Evolve from parent: 4858
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 5676 Evolve from parent: 4676
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 23
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4657 Evolve from parent: 4656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4650 Evolve from parent: 4656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4676 Evolve from parent: 4656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4156 Evolve from parent: 4656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4623 Evolve from parent: 4626
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 1696 Evolve from parent: 5696
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4686 Evolve from parent: 4686
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 8657 Evolve from parent: 8650
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 24
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4106 Evolve from parent: 4156
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4456 Evolve from parent: 4156
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 6657 Evolve from parent: 4657
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4657 Evolve from parent: 4650
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 9657 Evolve from parent: 4657
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4656 Evolve from parent: 4650
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3676 Evolve from parent: 4676
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4603 Evolve from parent: 4623
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 25
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3456 Evolve from parent: 4456
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4451 Evolve from parent: 4456
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4056 Evolve from parent: 4656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 7656 Evolve from parent: 4656
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 9657 Evolve from parent: 4657
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3673 Evolve from parent: 3676
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 4637 Evolve from parent: 4657
+2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3674 Evolve from parent: 3676
+2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 26
+2017-12-10 17:46:45 INFO  Train:86 -  Evolving ended. A perfect candidate Found: 3456 in generation 26
