@@ -19,7 +19,7 @@
   * Repeat the evolving process until one Guess is corrent in current generation, GA stops.   
 
 ### Unit Test:
-   * Test fitness calculation method using Junit test. 
+* Test fitness calculation method using Junit test. 
    * Other methods: mutate/initialize all involve random number, did not use unit test.
 
 ### Concultion
