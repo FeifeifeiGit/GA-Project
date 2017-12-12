@@ -1,4 +1,5 @@
 ## Genetic Algorithm of Bulls and Cows Game
+#### Team Members: Fei Li, HuiWen Gan
 ### Introduction
   This project used GA to play the bulls and cows game. Bulls and Cows game : given a serect number - "2345", and we need to guess the secret number. After every guess we can get a feedback telling you how many bulls and how many cows you got.  Bull - same number at the same position, cow - same number at different positions. In this project we get one batch of Guess as one generation, caluculate their fitness respectively based on bulls and cows. We choose the first half Guess after sorting by fitness and evlove to a new generation through mutation. Repeat the evolving utile a corret guess has been made - bulls is length of the secret number.     
 ### Outline   
