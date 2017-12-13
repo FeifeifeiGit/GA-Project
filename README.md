@@ -19,6 +19,14 @@
   * Evolve to a new generation by culling half of guesses from last generation and mutate the other half which has higher fitness to form a new generation.
   * Repeat the evolving process until one Guess is corrent in current generation, GA stops.   
 
+
+###Generic Code//Mutator 
+### Gene Expression
+###Fitness Function
+###Sort Function
+###Evolution mechanism
+###Logging Function
+
 ### Unit Test
 * Test fitness calculation method using Junit test. 
 * Other methods: mutate/initialize all involve random number, did not use unit test.

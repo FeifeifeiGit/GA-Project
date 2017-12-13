@@ -659,3 +659,62 @@
 2017-12-10 17:46:45 INFO  Guess:44 - A new inividual: 3674 Evolve from parent: 3676
 2017-12-10 17:46:45 INFO  Train:61 -  A new generation is created: Generation: 26
 2017-12-10 17:46:45 INFO  Train:86 -  Evolving ended. A perfect candidate Found: 3456 in generation 26
+2017-12-12 15:37:58 INFO  Train:36 - -------- Initialize a new Experiment! -----
+2017-12-12 15:37:58 INFO  Train:43 - 16 Guess are created as the Generation 0
+2017-12-12 15:37:58 INFO  Train:27 -  Train Constructor Called!
+2017-12-12 15:37:58 INFO  Train:28 -  SECRET=3456, BULL_WEIGHT=2, COW_WEIGHT=1, maximum evolving times=100
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 1
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 2
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 3
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 4
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 5
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 6
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 7
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 8
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 9
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 10
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 11
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 12
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 13
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 14
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 15
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 16
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 17
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 18
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 19
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 20
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 21
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 22
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 23
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 24
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 25
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 26
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 27
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 28
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 29
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 30
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 31
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 32
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 33
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 34
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 35
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 36
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 37
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 38
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 39
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 40
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 41
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 42
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 43
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 44
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 45
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 46
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 47
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 48
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 49
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 50
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 51
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 52
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 53
+2017-12-12 15:37:58 INFO  Train:61 -  A new generation is created: Generation: 54
+2017-12-12 15:37:58 INFO  Train:86 -  Evolving ended. A perfect candidate Found: 3456 in generation 54
