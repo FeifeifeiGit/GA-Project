@@ -20,6 +20,14 @@
   * Repeat the evolving process until one Guess is corrent in current generation, GA stops.   
   
 ### Generic Code//Mutator 
+* Generic Code:
+  ```java
+   public class Guess {
+	      int fitness;
+	      int bulls;
+	      int cows;
+	      String sequence;
+  ```
 ### Gene Expression
 ### Fitness Function
 ### Sort Function
