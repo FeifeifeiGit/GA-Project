@@ -27,7 +27,7 @@
       int bulls;//bulls this.sequence compared with SECRET
       int cows;//cows this.sequence compared with SECRET
       String sequence;//Gene code
-}
+	}
   ```
   * Mutator: pick a random index and change that character into a random character ( '1' - '9')
   ```java
