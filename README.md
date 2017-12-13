@@ -22,7 +22,7 @@
 ### Generic Code//Mutator 
 * Generic Code: Using a String to represent the gene, each character is '1' - '9'
   ```java
-   public class Guess {
+    public class Guess {
 	      int fitness;
 	      int bulls;//bulls this.sequence compared with SECRET
 	      int cows;//cows this.sequence compared with SECRET
@@ -31,7 +31,7 @@
   ```
   * Mutator: pick a random index and change that character into a random character ( '1' - '9')
   ```java
-  void mutate(){
+   void mutate(){
 		int idx  = rn.nextInt(Integer.MAX_VALUE)%4;
 		int new_number = rn.nextInt(Integer.MAX_VALUE)%10;
 		char[] tmp = sequence.toCharArray();
